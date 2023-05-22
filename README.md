@@ -6,3 +6,34 @@
 
 ## 第三题 : [用两个栈实现队列](https://github.com/manneia/Diagram-data_structure-algorithm/blob/master/src/main/java/com/luo/dataStructure/introduction/CiQueue.java)
 
+## 第四题 : [表示数值的字符串](https://github.com/manneia/Diagram-data_structure-algorithm/blob/master/src/main/java/com/luo/dataStructure/introduction/IsNumber.java)
+
+## 
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
