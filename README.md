@@ -10,7 +10,7 @@
 
 ## 第五题 : [反转链表](https://github.com/manneia/Diagram-data_structure-algorithm/blob/master/src/main/java/com/luo/dataStructure/introduction/ReverseList.java)
 
-##
+## 第六题 : [N 字形变换](https://github.com/manneia/Diagram-data_structure-algorithm/blob/master/src/main/java/com/luo/dataStructure/introduction/Convert.java)
 
 ##
 
@@ -38,4 +38,4 @@
 
 ##
 =======
->>>>>>> 99ba8db4f0bf12f9615ca31be62768129c483248
+> > > > > > > 99ba8db4f0bf12f9615ca31be62768129c483248
