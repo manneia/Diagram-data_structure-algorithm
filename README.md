@@ -12,9 +12,7 @@
 
 ## 第六题 : [N 字形变换](https://github.com/manneia/Diagram-data_structure-algorithm/blob/master/src/main/java/com/luo/dataStructure/introduction/Convert.java)
 
-##
-
-##
+## 第七题 : [有序数组的平方](https://github.com/manneia/Diagram-data_structure-algorithm/blob/master/src/main/java/com/luo/dataStructure/introduction/SortedSquares.java) 
 
 ##
 
